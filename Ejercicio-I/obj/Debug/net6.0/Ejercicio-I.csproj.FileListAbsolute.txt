@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\bin\Debug\net6.0\Ejercicio-I.exe
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\bin\Debug\net6.0\Ejercicio-I.deps.json
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\bin\Debug\net6.0\Ejercicio-I.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\bin\Debug\net6.0\Ejercicio-I.dll
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\bin\Debug\net6.0\Ejercicio-I.pdb
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.dll
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\refint\Ejercicio-I.dll
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.pdb
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\Ejercicio-I.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Facultad\1C 2024\CAI\Practica\EjerciciosRepaso\Ejercicio-I\Ejercicio-I\obj\Debug\net6.0\ref\Ejercicio-I.dll
